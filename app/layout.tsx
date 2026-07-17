@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://your-domain.vercel.app'),
+  metadataBase: new URL("https://jeyaraaman.vercel.app"),
 
   title: {
     default: 'Jeyaraaman K | Python Full Stack & AI Developer',
@@ -68,14 +68,10 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: 'Jeyaraaman K | Python Full Stack & AI Developer',
-
-    description:
-      'Portfolio showcasing Python Full Stack Development, Artificial Intelligence, Machine Learning and Computer Vision projects.',
-
-    url: 'https://your-domain.vercel.app',
-
-    siteName: 'Jeyaraaman Portfolio',
+  title: "Jeyaraaman K",
+  description: "Python Full Stack Developer & AI Engineer",
+  url: "https://jeyaraaman.vercel.app",
+  siteName: "Jeyaraaman Portfolio",
 
     locale: 'en_US',
 
