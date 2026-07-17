@@ -144,7 +144,7 @@ export function Navbar() {
             {scrolled && (
 
               <motion.a
-                href="/resume/resume.pdf"
+                href="/resume/Resume.pdf"
                 download
                 initial={{ opacity: 0, x: 15 }}
                 animate={{ opacity: 1, x: 0 }}

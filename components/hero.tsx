@@ -112,7 +112,7 @@ real-world engineering problems through intelligent software.
           className="mt-10 flex flex-wrap items-center justify-center gap-4 lg:justify-start"
         >
           <a
-            href="/resume/resume.pdf"
+            href="/resume/Resume.pdf"
             download
             className="inline-flex items-center gap-2 rounded-xl bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-all duration-300 hover:-translate-y-1 hover:brightness-110 glow-primary"
           >
